@@ -108,7 +108,7 @@ function Form() {
               <iframe
                   src={`http://127.0.0.1:5000/${result.map_path}`}
                   title="Карта маршрута"
-                  style={{ width: '800px', height:   '800px', border: '1px solid black' }}
+                  style={{ width: '1080px', height:   '720px', border: '1px solid black' }}
                   allowFullScreen
               />
             </div>
